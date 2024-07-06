@@ -1,0 +1,33 @@
+{
+  "student": [
+    { 
+      "id": 1, 
+      "studName": "Pritam", 
+      "studTotalMarks": 90, 
+      "studDob": "2020-12-12", 
+      "studGender": "Male" 
+    },
+    { 
+      "id": 2, 
+      "studName": "Sweeta", 
+      "studTotalMarks": 95, 
+      "studDob": "2021-11-09", 
+      "studGender": "Female" 
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "another comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,24 @@
+2 way for creating component:
+
+
+1st way: to create a login component
+
+1. typescript file should be created - login.component.ts
+2. html file should be created - login.component.html
+3. css file should be created - login.component.css
+4. testing file login.component.spec.ts
+5. register this component in app.module.ts
+6. call the selector inside the root component
+
+2nd way: create a display component
+
+1. ng generate component display
+or
+ng g c display 
+
+Routing and Navigation
+----------------------------
+
+can be achieved in two ways
+1. Routing can be done through hyperlink (use routerLink to achieve at don't use href)
+2. Programatically we can do it
