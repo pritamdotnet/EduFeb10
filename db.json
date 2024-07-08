@@ -13,6 +13,20 @@
       "studTotalMarks": 95, 
       "studDob": "2021-11-09", 
       "studGender": "Female" 
+    },
+    { 
+      "id": 3, 
+      "studName": "Govinda", 
+      "studTotalMarks": 100, 
+      "studDob": "2001-11-09", 
+      "studGender": "Male" 
+    },
+    { 
+      "id": 4, 
+      "studName": "sivani", 
+      "studTotalMarks": 50, 
+      "studDob": "2002-11-07", 
+      "studGender": "Female" 
     }
   ],
   "comments": [
